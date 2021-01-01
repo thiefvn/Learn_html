@@ -1,0 +1,44 @@
+{
+    "sync.gist": "19b5ff18e79165ed9326e468c04a78e8",
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "settingsSync.ignoredExtensions": [],
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": false,
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    //font
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "295", // Light
+    //  "window.zoomLevel": 1,
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.trimFinalNewlines": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "prettier.printWidth": 100,
+    "prettier.trailingComma": "es5",
+    "prettier.bracketSpacing": true,
+    "prettier.tabWidth": 4,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.fontFamily": "monospace"
+}
