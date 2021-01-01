@@ -1,0 +1,33 @@
+:root {
+    --text-color: red;
+}
+
+h1 {
+    color: var(--text-color);
+    margin-top: 100px;
+}
+
+h2 {
+    --text-color: green;
+    color: var(--text-color);
+}
+h3 {
+    color: var(--text-color);
+}
+
+.box {
+    width: 30vw;
+    height: 30vh;
+    background-color: aqua;
+}
+.nav {
+    background-image: linear-gradient(red, yellow);
+    height: 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    right: 0;
+}
+body {
+    height: 1000px;
+}

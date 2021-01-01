@@ -1,0 +1,14 @@
+- trong the, style, file css
+- su dung root {} khai bao bien toan cuc
+- var(x) su dung bien
+- don vi:
+    + % phu thuoc cai chua no
+    + rem phu thuoc font-size html
+    + em phu thuoc font-size chua no
+    + vh, vw phu thuoc html
+- box-sizing : ko lam thay doi size
+- background-image
+- position
+    + relative :  dung yen tuong do, ko phu thuoc vao cai gi
+    + absolute : dung yen tuyet doi, phu thuoc vao the cha co attr position
+    + fixed : dung yen so vs cua so trinh duyet
